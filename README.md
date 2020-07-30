@@ -11,7 +11,7 @@ This is a mailing application. In this web applicaiton a user can register and a
 - Sqlite3
 
 ## Specification
-Used JavaScript, HTML, and CSS, to complete the implementation of your single-page-app email client and Django and Sqlite3 to create backend of this project which fulfill the following requirements:
+Used JavaScript, HTML, and CSS, to complete the implementation of your single-page-app email client and Django and Sqlite3 to create backend of this project which fulfill the following features:
 1. **Send Mail:**
 - When a user submits the email composition form, JavaScript code send the email. 
 - Once the email has been sent, mail can be seen in user’s sent mailbox.
